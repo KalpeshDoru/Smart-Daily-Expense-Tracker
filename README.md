@@ -1,17 +1,55 @@
-# Expense Tracker Android
+# Expense Tracker – Android
 
-Welcome to the Expense Tracker Android app! This project is designed to help users keep track of their daily expenses with ease. The app allows users to add, view, and analyze their expenses using intuitive stats and charts. It is developed using modern Android development practices, including Jetpack Compose, Room Database, Dagger Hilt for dependency injection, and the MVVM architecture.
+The **Expense Tracker** app helps you easily record, organize, and analyze your daily expenses.  
+Quickly add transactions, view your spending history, and get insights with beautiful charts.
+
+Built with modern Android development tools for a fast, smooth, and reliable experience.
+
+---
 
 ## Features
 
-- **Add Expense:** Easily add your daily expenses with a few taps.
-- **Track Expenses:** View a list of all your expenses, organized by date and category.
-- **Analyze with Stats:** Get insights into your spending habits with detailed stats and charts.
-  
-## Technologies Used
+-  **Quick Add** – Log your daily expenses in just a few taps.
+-  **Track Spending** – View expenses sorted by date and category.
+-  **Stats & Charts** – Understand your spending patterns visually.
+-  **Dark Mode** – Comfortable viewing in both light and dark themes.
 
-- **Jetpack Compose:** A modern toolkit for building native Android UI.
-- **Room Database:** A robust database layer on top of SQLite for managing local data.
-- **Dagger Hilt:** A dependency injection library for Android that reduces the boilerplate of manual dependency injection.
-- **MVVM Architecture:** Model-View-ViewModel architecture for separating the UI, business logic, and data handling in the app.
+---
+
+## Tech Stack
+
+- **Jetpack Compose** – Modern UI toolkit for native Android.
+- **Room Database** – Local storage for offline data.
+- **Dagger Hilt** – Simplifies dependency injection.
+- **MVVM Architecture** – Clean separation between UI, data, and logic.
+
+---
+
+## Prompt Logs (Development Steps)
+
+- Refactored the original code for better optimization.
+- Created shared UI components to avoid duplication.
+- Designed a Compose theme and color setup with a blue primary palette.
+
+---
+
+## AI Usage Summary
+
+During the build process, I explored different approaches for optimization, reusable component creation, and theme management.  
+I tested multiple layouts, refined state handling, and ensured smooth UI performance across light and dark modes.  
+Some external references and collaborative inputs were used to guide certain design choices.
+
+---
+
+## Project Assets
+
+- **Screenshots:** Located in the project root (`1.png` to `6.png`)
+- **Resume:** `resume-kalpesh.pdf`
+
+---
+
+## 📥 Download
+
+[Download APK](https://drive.google.com/file/d/1xe7xKtb6gL66K5aU9nekl984WYs1gnGj/view?usp=sharing)
+
 
