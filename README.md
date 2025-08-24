@@ -5,6 +5,10 @@ Quickly add transactions, view your spending history, and get insights with beau
 
 Built with modern Android development tools for a fast, smooth, and reliable experience.
 
+| Home Screen | Add Expense | Stats | Dark Mode |  
+|-------------|-------------|-------|-----------|
+| <img src="https://github.com/user-attachments/assets/8299b65a-e552-45af-bc1f-d3b494e33b83" width="250"/> | <img src="https://github.com/user-attachments/assets/61097da0-4df2-4e5a-b6bb-7d7fbe49f734" width="250"/> | <img src="https://github.com/user-attachments/assets/ffe5506d-b0ba-4d73-8a6b-593d91a7294c" width="250"/> | <img src="https://github.com/user-attachments/assets/4929e4c5-da28-4e75-a78e-ea4d99e8495a" width="250"/> |
+
 ---
 
 ## Features
