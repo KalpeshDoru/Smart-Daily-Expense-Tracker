@@ -48,7 +48,6 @@ Some external references and collaborative inputs were used to guide certain des
 ## Project Assets
 
 - **Screenshots:** Located in the project root (`1.png` to `6.png`)
-- **Resume:** `resume-kalpesh.pdf`
 
 ---
 
